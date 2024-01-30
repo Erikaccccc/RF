@@ -10,4 +10,5 @@ package com.mycompany.repositorio;
  */
 public class NewClass {
     int ae;
+    int yrtd;
 }
